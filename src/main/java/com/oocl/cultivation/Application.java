@@ -1,4 +1,4 @@
 package com.oocl.cultivation;
 
-public class ParkingTicket {
+public class Application {
 }
